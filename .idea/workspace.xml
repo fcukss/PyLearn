@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CarCalculator/apis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarCalculator/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarCalculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/.idea/MSUcoursesDataAnalysisWithPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyArrayFunct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyArrayInvert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyArrayMoveElements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyBoolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyFunctionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyLoopsBetterThanFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PySort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyStart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyTurtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSUcoursesDataAnalysisWithPython/PyVariables.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2sAw8du1qmFBn1ZVUnkX8WNgUvQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Stas/PYTHON/PyLearn"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="" />
+      <created>1737911528882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737911528882</updated>
+    </task>
+    <servers />
+  </component>
+</project>
