@@ -34,9 +34,18 @@ Task2
 если треугольник с переданными сторонами может существовать, и False в противном случае.
 
 Для is_triangle(2, 4, 9) правильный ответ - False, для is_triangle(3, 4, 5) - True.
-
 """
 
+def is_triangle(a, b, c):
+    if a | b | c == 0:
+        return False
+    if (a + b > c) and (a + c > b) and (c + b > a):
+        return True
+    else:
+        return False
+
+print(is_triangle(2, 4, 9))
+print(is_triangle(3, 4, 5))
 """
 Task3
 Среднее значение.
