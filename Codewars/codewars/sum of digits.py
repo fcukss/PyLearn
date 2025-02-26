@@ -10,15 +10,9 @@ Examples
 """
 
 def digital_root(n):
-    while n%10!=0:
-        return rec(n)
-
-def rec(n):
-    res = 0
-    res += n % 10
-    res += n // 10
-    n = n // 10
-    return res
+    if n < 10:
+        return n
+    return digital_root(sum(int(digit) for digit in str(n)))
 
 
 

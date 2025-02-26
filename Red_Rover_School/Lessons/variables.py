@@ -22,3 +22,5 @@ def is_even2(num: int) -> bool:
 
 print(is_even(10))
 print(is_even2(10))
+
+
