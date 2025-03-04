@@ -29,7 +29,13 @@ def pow2(x, y):
     #return pow(x,y)
     return math.pow(x,y)
 
+
 print(pow2(2,6))
+
+
+res = lambda x,y:pow(x,y)
+print(res(2,2))
+
 
 
 """
