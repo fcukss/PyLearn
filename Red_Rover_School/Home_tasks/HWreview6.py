@@ -77,3 +77,23 @@ def give_change(amount):
         amount %= bills[i]
 
     return tuple(res)
+
+"""
+How many consecutive numbers are needed
+Write a function that takes an array of unique integers and returns
+ the minimum number of integers needed to make the values of the array 
+ consecutive from the lowest number to the highest number.
+"""
+
+def consecutive(arr):
+    if not arr:
+        return 0
+    new_arr = sorted(arr)
+    for i in range(min(arr)+1,max(arr)):
+        new_arr.append(i)
+    return len(set(new_arr))-len(arr)
+
+
+
+def consecutive2(arr):
+    return abs(len(arr)-(max(arr)-min(arr)))+1
