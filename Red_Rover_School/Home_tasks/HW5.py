@@ -38,8 +38,6 @@ print(sum_ignore_non_numbers([1, 2, 'Hey', None, 4.3]))
 """
 
 def is_triangle(a, b, c):
-    if a | b | c == 0:
-        return False
     if (a + b > c) and (a + c > b) and (c + b > a):
         return True
     else:
@@ -66,6 +64,7 @@ def average(*args):
     if not args:
         return 0
     return sum(args)/len(args)
+
 print(average(1, 2, 3, 4, 5, 6, 7, 8))
 print(average())
 

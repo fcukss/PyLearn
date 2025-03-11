@@ -37,17 +37,26 @@ print(res(2,2))
 Например, такой вызовы функции snake_talk(“Harry”) должен вернуть строку “Haaryy”.
 """
 
+# def snake_talk(text):
+#     pattern = "aeiouyAEIOUY"
+#     res=[]
+#     for c in text:
+#         if c in pattern:
+#             res.append(c*2)
+#         else:
+#             if c not in res:
+#                 res.append(c)
+#
+#     return ''.join(res)
+
 def snake_talk(text):
     pattern = "aeiouyAEIOUY"
-    res=[]
+    res=''
     for c in text:
         if c in pattern:
-            res.append(c*2)
-        else:
-            if c not in res:
-                res.append(c)
-
-    return ''.join(res)
+            res+=c
+        res+=c
+    return res
 
 print(snake_talk("Harry"))
 
