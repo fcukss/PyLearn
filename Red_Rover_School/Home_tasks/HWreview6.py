@@ -120,3 +120,9 @@ def trim(phrase, size):
         return phrase[:size] + '...'
     else:
         return phrase[:size - 3] + '...'
+
+
+
+"""
+Find all non-consecutive numbers
+"""

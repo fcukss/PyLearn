@@ -1,10 +1,12 @@
 # add = lambda x, y: x + y
 # print(add(5, 8))  # 13
-#
+
+##print("=========================map===============================")
 # numbers = [1, 2, 3, 5, 6, 7, 10]
 # squared_numbers = list(map(lambda x: x ** 2, numbers))
 # print(squared_numbers)  # [1, 4, 9, 25, 36, 49, 100]
-#
+
+##print("========================filter=================================")
 # even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
 # print(even_numbers)  # [2, 6, 10]
 #
@@ -13,6 +15,7 @@
 # sorted_students = sorted(students, key=lambda student: student[1])
 # print(sorted_students)    #[('Anna', 19), ('John', 22), ('Tom', 25)]
 
+#print("=======================reduce==================================")
 #from functools import reduce
 #
 # #возращает одно значение

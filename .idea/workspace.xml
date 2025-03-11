@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Codewars/Between_extremes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Largest Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Sum even numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/You Got Change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HWreview6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Find all non-consecutive numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HWreview6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HWreview6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson6/review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson6/review.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +51,14 @@
   "keyToString": {
     "Python.A Needle in the Haystack.executor": "Run",
     "Python.APIs.executor": "Run",
+    "Python.Find all non-consecutive numbers.executor": "Debug",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
     "Python.HWreview6.executor": "Run",
+    "Python.How many consecutive numbers are needed.executor": "Run",
     "Python.Largest Elements.executor": "Run",
     "Python.Sum even numbers.executor": "Run",
+    "Python.Trimming a string.executor": "Run",
     "Python.You Got Change.executor": "Run",
     "Python.cards.executor": "Run",
     "Python.emojisi.executor": "Run",
@@ -68,6 +69,7 @@
     "Python.review.executor": "Run",
     "Python.sayings.executor": "Run",
     "Python.search.executor": "Run",
+    "Python.strings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -80,7 +82,29 @@
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\Codewars\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.You Got Change">
+  <component name="RunManager" selected="Python.Find all non-consecutive numbers">
+    <configuration name="Find all non-consecutive numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars/codewars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/Find all non-consecutive numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HWreview6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
@@ -103,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Largest Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="How many consecutive numbers are needed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/Largest Elements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/How many consecutive numbers are needed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum even numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Trimming a string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/Sum even numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/Trimming a string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="You Got Change" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,33 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars/codewars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weksler/weksler_les" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/You Got Change.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="review" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson6/review.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weksler/weksler_les/strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.You Got Change" />
-        <item itemvalue="Python.Largest Elements" />
-        <item itemvalue="Python.Sum even numbers" />
+        <item itemvalue="Python.Find all non-consecutive numbers" />
         <item itemvalue="Python.HWreview6" />
-        <item itemvalue="Python.review" />
+        <item itemvalue="Python.Trimming a string" />
+        <item itemvalue="Python.strings" />
+        <item itemvalue="Python.How many consecutive numbers are needed" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +347,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741697658746</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="init">
+      <option name="closed" value="true" />
+      <created>1741703342968</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741703342968</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <option name="closed" value="true" />
+      <created>1741703885303</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741703885303</updated>
+    </task>
+    <task id="LOCAL-00019" summary="init">
+      <option name="closed" value="true" />
+      <created>1741727938237</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741727938237</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update">
+      <option name="closed" value="true" />
+      <created>1741727949075</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741727949075</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,9 +410,20 @@
     <MESSAGE value="04/Mar/2025" />
     <MESSAGE value="нет изменений" />
     <MESSAGE value="add lambda func" />
-    <MESSAGE value="init" />
     <MESSAGE value="map, filter, reduce,counter, decorator" />
+    <MESSAGE value="init" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codewars/codewars/Find all non-consecutive numbers.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
