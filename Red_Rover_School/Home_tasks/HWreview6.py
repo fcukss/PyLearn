@@ -97,3 +97,26 @@ def consecutive(arr):
 
 def consecutive2(arr):
     return abs(len(arr)-(max(arr)-min(arr)))+1
+
+
+"""
+Trimming a string
+
+Create a function that will trim a string (the first argument given) if it is longer than the requested maximum string length (the second argument given). The result should also end with "..."
+
+These dots at the end also add to the string length.
+
+For example, trim("Creating kata is fun", 14) should return "Creating ka..."
+
+If the string is smaller or equal than the maximum string length, then simply return the string with no trimming or dots required.
+
+e.g. trim("Code Wars is pretty rad", 50) should return "Code Wars is pretty rad"""
+
+
+def trim(phrase, size):
+    if len(phrase) <= size:
+        return phrase
+    elif size <= 3:
+        return phrase[:size] + '...'
+    else:
+        return phrase[:size - 3] + '...'
