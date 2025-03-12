@@ -1,12 +1,8 @@
 def all_non_consecutive(arr):
-    res={}
     lst=[]
     for i,n in enumerate(arr[1::]):
         if n - arr[i]!=1:
-            res['i']=i+1
-            res['n']=n
-            lst.append(res)
-
+            lst.append({'i':i+1, 'n':n})
     return lst
 
 
