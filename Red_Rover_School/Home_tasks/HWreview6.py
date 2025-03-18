@@ -5,29 +5,29 @@ start 1, finish 5, then answer is 2 (1 => 4 => 5 or 1 => 2 => 5)
 """
 
 
-def solution(start, finish):
-    count = 0
-    while True:
-        if start != finish and start + 3 <= finish:
-            start += 3
-            count += 1
-        elif start != finish or start + 1 == finish:
-            start += 1
-            count += 1
-        else:
-            break
-
-    return count
-
-def solution2(start, finish):
-    n = finish - start
-    return n // 3 + n % 3
-
-def solution3(start, finish):
-    return sum(divmod(finish-start, 3))
-
-
-print(solution(16, 31))
+# def solution(start, finish):
+#     count = 0
+#     while True:
+#         if start != finish and start + 3 <= finish:
+#             start += 3
+#             count += 1
+#         elif start != finish or start + 1 == finish:
+#             start += 1
+#             count += 1
+#         else:
+#             break
+#
+#     return count
+#
+# def solution2(start, finish):
+#     n = finish - start
+#     return n // 3 + n % 3
+#
+# def solution3(start, finish):
+#     return sum(divmod(finish-start, 3))
+#
+#
+# print(solution(16, 31))
 
 #
 # """
@@ -165,3 +165,9 @@ print(solution(16, 31))
 #         if n - arr[i]!=1:
 #             lst.append({'i':i+1, 'n':n})
 #     return lst
+
+""""
+Convert Lambda To Def
+"""
+
+func = lambda a: a * 1
