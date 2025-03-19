@@ -166,8 +166,25 @@ start 1, finish 5, then answer is 2 (1 => 4 => 5 or 1 => 2 => 5)
 #             lst.append({'i':i+1, 'n':n})
 #     return lst
 
-""""
-Convert Lambda To Def
-"""
-
-func = lambda a: a * 1
+# """"
+# Odd-Even String Sort
+# """
+# def sort_my_string(s):
+#     f=''
+#     e=''
+#     for i,c in enumerate(s):
+#         if i%2==0:
+#             f+=c
+#         else:
+#             e+=c
+#     return f'{f} {e}'
+#
+# s = "CodeWars"
+# res = sort_my_string(s)
+# print(res)
+#
+# #==========Decreasing Inputs=============
+# def add(*args):
+#     return sum(arg/(i+1) for i, arg in enumerate(args))
+#
+# print(add(3,4,6))
