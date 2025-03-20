@@ -223,42 +223,47 @@
 def yoga(classroom, poses):
     pass
 
+
 # ==================================Menu Display=========================================
-# class Menu:
-#     new_arr=[]
-#     def __init__(self, array):
-#         for i in array:
-#             if i== array[0]:
-#                 self.new_arr.append([i])
-#             else:
-#                 self.new_arr.append(i)
-#
-#     def to_the_right(self):
-#             for i in self.new_arr:
-#                 if not isinstance(i,list):
-#                     i = [i]
-#
-#     def to_the_left(self):
-#         pass
-#          # write code here!
-#
-#     def display(self):
-#         print(self.new_arr)
-#
-#
-# menu = Menu([1, 2, 3])
-# print(menu.display())
-# menu.to_the_right()
-# print(menu.display())
-# menu.to_the_right()
-# print(menu.display())
-# menu.to_the_left()
-# print(menu.display())
-# menu.to_the_left()
-# print(menu.display())
+class Menu:
+    def __init__(self, array):
+        self.array = array
+        self.cursor = 0
 
+    def to_the_right(self):
+        if 0 <= self.cursor < len(self.array):
+            self.cursor += 1
+        if self.cursor==len(self.array):
+            self.cursor=0
 
-#===============Python's Dynamic Classes #1===========
+    def to_the_left(self):
+        print(self.cursor)
+        if self.cursor == 0:
+            self.cursor = len(self.array)-1
+        elif 0 < self.cursor < len(self.array):
+            self.cursor -= 1
+
+    def display(self):
+        new_arr = []
+        for i, item in enumerate(self.array):
+            if i == self.cursor:
+                new_arr.append([item])
+            else:
+                new_arr.append(item)
+        return str(new_arr)
+
+menu = Menu([1, 2, 3])
+print(menu.display())
+menu.to_the_right()
+print(menu.display())
+menu.to_the_right()
+print(menu.display())
+menu.to_the_left()
+print(menu.display())
+menu.to_the_left()
+print(menu.display())
+
+# ===============Python's Dynamic Classes #1===========
 class MyClass:
     pass
 
@@ -275,5 +280,5 @@ def class_name_changer(cls, new_name):
 
 myObject = MyClass()
 
-class_name_changer(myObject, "svgsd")
+class_name_changer(myObject, "UsefulClass")
 print(myObject.__name__)
