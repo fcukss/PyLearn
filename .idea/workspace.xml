@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/CS50/adieu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Transpose two strings in an array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/makeBackronym.py" afterDir="false" />
+    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/fuel/fuel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/fuel/fuel0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/fuel/test_fuel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +45,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2sAw8du1qmFBn1ZVUnkX8WNgUvQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,31 +56,55 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_convert0.test_float_conversion.executor": "Run",
+    "Python tests.Python tests for test_hello.test_argument.executor": "Run",
+    "Python tests.Python tests in test_bank.py.executor": "Run",
+    "Python tests.Python tests in test_convert0.py.executor": "Run",
+    "Python tests.Python tests in test_hello.py.executor": "Run",
+    "Python tests.Python tests in test_plates.py.executor": "Run",
     "Python.A Needle in the Haystack.executor": "Run",
     "Python.APIs.executor": "Run",
+    "Python.Bitcoin Price Index.executor": "Run",
     "Python.Find all non-consecutive numbers.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
     "Python.HW7.executor": "Run",
+    "Python.HW8.executor": "Run",
     "Python.HWreview6.executor": "Run",
+    "Python.HWreview7.executor": "Run",
     "Python.How many consecutive numbers are needed.executor": "Run",
     "Python.Largest Elements.executor": "Run",
     "Python.Sum even numbers.executor": "Run",
     "Python.Transpose two strings in an array.executor": "Run",
     "Python.Trimming a string.executor": "Run",
+    "Python.UI_tests.executor": "Run",
     "Python.You Got Change.executor": "Run",
     "Python.adieu.executor": "Run",
+    "Python.bank.executor": "Run",
+    "Python.bitcoin (1).executor": "Run",
     "Python.cards.executor": "Run",
+    "Python.convert1.executor": "Run",
     "Python.emojisi.executor": "Run",
     "Python.figlet.executor": "Run",
+    "Python.fuel.executor": "Run",
+    "Python.fuel0.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.hello (1).executor": "Run",
     "Python.lesson7_1.executor": "Run",
     "Python.libraries.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.names.executor": "Run",
+    "Python.nutrition.executor": "Run",
+    "Python.plates.executor": "Run",
+    "Python.professor.executor": "Run",
     "Python.review.executor": "Run",
     "Python.sayings.executor": "Run",
     "Python.search.executor": "Run",
     "Python.strings.executor": "Run",
+    "Python.students.executor": "Run",
+    "Python.twttr (1).executor": "Run",
+    "Python.twttr.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -82,12 +113,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\Twitter" />
+      <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\UItest" />
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\museum" />
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\Codewars\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.adieu">
-    <configuration name="HW7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.students">
+    <configuration name="fuel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/fuel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HW7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/fuel/fuel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HWreview6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fuel0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/fuel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HWreview6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/fuel/fuel0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Transpose two strings in an array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars/codewars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/Transpose two strings in an array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="adieu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/adieu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/students.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,35 +208,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_plates.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/plates" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson7/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CS50/plates/test_plates.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.adieu" />
-        <item itemvalue="Python.Transpose two strings in an array" />
-        <item itemvalue="Python.HWreview6" />
-        <item itemvalue="Python.HW7" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.students" />
+        <item itemvalue="Python.names" />
+        <item itemvalue="Python.fuel" />
+        <item itemvalue="Python.fuel0" />
+        <item itemvalue="Python tests.Python tests in test_plates.py" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +449,127 @@
       <option name="project" value="LOCAL" />
       <updated>1741778652618</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update">
+      <option name="closed" value="true" />
+      <created>1741862337908</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1741862337908</updated>
+    </task>
+    <task id="LOCAL-00027" summary="init">
+      <option name="closed" value="true" />
+      <created>1741869456697</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1741869456697</updated>
+    </task>
+    <task id="LOCAL-00028" summary="init">
+      <option name="closed" value="true" />
+      <created>1741869527812</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1741869527812</updated>
+    </task>
+    <task id="LOCAL-00029" summary="init">
+      <option name="closed" value="true" />
+      <created>1742301574733</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1742301574733</updated>
+    </task>
+    <task id="LOCAL-00030" summary="init">
+      <option name="closed" value="true" />
+      <created>1742301583538</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1742301583538</updated>
+    </task>
+    <task id="LOCAL-00031" summary="init">
+      <option name="closed" value="true" />
+      <created>1742301621391</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1742301621391</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update">
+      <option name="closed" value="true" />
+      <created>1742304517456</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1742304517456</updated>
+    </task>
+    <task id="LOCAL-00033" summary="init">
+      <option name="closed" value="true" />
+      <created>1742383228783</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1742383228783</updated>
+    </task>
+    <task id="LOCAL-00034" summary="init">
+      <option name="closed" value="true" />
+      <created>1742385042612</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1742385042612</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <option name="closed" value="true" />
+      <created>1742391452111</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1742391452111</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update">
+      <option name="closed" value="true" />
+      <created>1742569672971</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1742569672971</updated>
+    </task>
+    <task id="LOCAL-00037" summary="init">
+      <option name="closed" value="true" />
+      <created>1742570639482</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1742570639482</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update">
+      <option name="closed" value="true" />
+      <created>1742570721845</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1742570721845</updated>
+    </task>
+    <task id="LOCAL-00039" summary="init">
+      <option name="closed" value="true" />
+      <created>1742574974659</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1742574974659</updated>
+    </task>
+    <task id="LOCAL-00040" summary="init">
+      <option name="closed" value="true" />
+      <created>1742584520088</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1742584520088</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,19 +601,26 @@
     <MESSAGE value="нет изменений" />
     <MESSAGE value="add lambda func" />
     <MESSAGE value="map, filter, reduce,counter, decorator" />
-    <MESSAGE value="init" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Red_Rover_School/Home_tasks/HWreview6.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/Red_Rover_School/Lessons/lesson7/review/review.py</url>
+          <line>315</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
