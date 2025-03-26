@@ -104,3 +104,50 @@
 # s.draw("circle")  # Output: Drawing a string-based shape: circle
 # s.draw(4)  # Output: Drawing a shape with 4 sides
 # s.draw([1, 2])  # Output: Drawing a generic shape
+
+
+# ===================  Python Method Resolution Order (MRO)
+
+# class A:
+#     def process(self):
+#         print("Processing in A")
+#
+# class B(A):
+#     def process(self):
+#         print("Processing in B")
+#
+# class C(A):
+#     def process(self):
+#         print("Processing in C")
+#
+# class D(B, C):
+#     pass
+#
+# d = D()
+# d.process()
+#
+# print(D.mro())
+# # Output:
+# # [<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>]
+
+# class A:
+#     def process(self):
+#         print("Processing in A")
+#
+# class B(A):
+#     def process(self):
+#         super().process()
+#         print("Processing in B")
+#
+# class C(A):
+#     def process(self):
+#         super().process()
+#         print("Processing in C")
+#
+# class D(B, C):
+#     def process(self):
+#         super().process()
+#         print("Processing in D")
+#
+# d = D()
+# d.process()
