@@ -36,25 +36,25 @@ def registration(username: str, password : str):
 
 
 
-def main():
-    try:
-        registration("stas", "qwer52345435ty")
-    except RegistrationError:
-        print("1")
-    try:
-        registration("stas", 3242343453453454)
-    except RegistrationError:
-        print("2")
-    try:
-        registration("stas", "sdfsdf9sd@_)fsdf9sdfsdfsd")
-    except RegistrationError:
-        print("3")
-    try:
-        registration("astasdfsdfsdf", "qwertyuo706k")
-    except RegistrationError:
-        print("4")
-
-main()
+# def main():
+#     try:
+#         registration("stas", "qwer52345435ty")
+#     except RegistrationError:
+#         print("1")
+#     try:
+#         registration("stas", 3242343453453454)
+#     except RegistrationError:
+#         print("2")
+#     try:
+#         registration("stas", "sdfsdf9sd@_)fsdf9sdfsdfsd")
+#     except RegistrationError:
+#         print("3")
+#     try:
+#         registration("astasdfsdfsdf", "qwertyuo706k")
+#     except RegistrationError:
+#         print("4")
+#
+# main()
 
 
 """ TASK 2
@@ -72,17 +72,32 @@ RegistrationError и написать в консоль “Ошибка реги
 - Если данные были введены корректно, то программа должна вывести
 “Успешно!” и выйти из бесконечного цикла.
 """
+def main():
+    while True:
+        try:
+            username = input("Enter username: ")
+            password = input("Enter pass: ")
+            registration(username,password)
+            print("Успешно!")
+            break
+        except RegistrationError:
+            print("Ошибка регистрации!")
+            continue
 
-"""
 
-3
-Дорогой дневник...
+# if __name__ == '__main__':
+#     main()
+
+
+
+
+"""TASK3 Дорогой дневник...
 - Создайте пустой текстовый файл journal.txt
 - Программа должна в бесконечном цикле запрашивать пользователя
 ввести строку, которая является одним из режимов: “прочитать”,
 “записать”, “выйти”.
 - Если пользователь ввел “записать”:
-o Программа просит пользователя ввести еще одну строку, которая
+o Программа просит пользователя ввести еще одну стру,ок которая
 будет записана в файл.
 o Программа дозаписывает эту строку в файл journal.txt c новой
 строки.
@@ -96,6 +111,29 @@ o Программа пишет в консоль “Еще увидимся!”
 o Программа ничего не делает, просто возвращается к следующей
 итерации бесконечного цикла.
 """
+
+def main_task2():
+    while True:
+        command = input("Enter command: ")
+        match command:
+            case "write":
+                with open("journal.txt", 'a') as file:
+                    text = input("Enter text: ")
+                    file.write(f"{text}\n")
+            case "read":
+                with open("journal.txt",'r') as file:
+                    for line in file:
+                        print(line.rstrip())
+            case "exit":
+                print("Еще увидимся!")
+                break
+
+
+# if __name__ == '__main__':
+#     main_task2()
+
+
+
 
 """
 Повторение прошлого материала.
@@ -113,3 +151,15 @@ o Программа ничего не делает, просто возвращ
 вложенные списки. Попробуйте изучить эти данные и придумать, что с ними
 можно сделать.
 """
+
+import json
+
+with open("secret.json", 'r') as file:
+    data = json.load(file)
+
+pixels = data["pixels"]
+for row in pixels:
+    text = ''
+    for c, num in row:
+        text+=c*num
+    print(text)

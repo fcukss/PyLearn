@@ -1,4 +1,4 @@
-from hello import hello
+from CS50.UItest.test.hello import hello
 
 
 def test_default():
