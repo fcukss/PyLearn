@@ -26,17 +26,10 @@ class RegistrationError(Exception):
     pass
 
 def registration(username: str, password : str):
-    if not isinstance(username,str):
+    if not isinstance(username,str) and 4<=len(username)<=15 and username.isalpha() :
         raise RegistrationError
-    if not 4<=len(username)<=15:
-        raise RegistrationError
-    if not username.isalpha():
-        raise RegistrationError
-    if not isinstance(password,str):
-        raise RegistrationError
-    if not 8<=len(password)<=45:
-        raise RegistrationError
-    if not password.isalnum():
+
+    if not isinstance(password,str) and 8<=len(password)<=45 and password.isalnum():
         raise RegistrationError
     return True
 
@@ -80,9 +73,9 @@ RegistrationError и написать в консоль “Ошибка реги
 """
 def main():
     while True:
+        username = input("Enter username: ")
+        password = input("Enter pass: ")
         try:
-            username = input("Enter username: ")
-            password = input("Enter pass: ")
             registration(username,password)
             print("Успешно!")
             break
@@ -91,8 +84,8 @@ def main():
             continue
 
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()
 
 
 
@@ -117,22 +110,22 @@ o Программа пишет в консоль “Еще увидимся!”
 o Программа ничего не делает, просто возвращается к следующей
 итерации бесконечного цикла.
 """
-
-def main_task2():
-    while True:
-        command = input("Enter command: ")
-        match command:
-            case "write":
-                with open("journal.txt", 'a') as file:
-                    text = input("Enter text: ")
-                    file.write(f"{text}\n")
-            case "read":
-                with open("journal.txt",'r') as file:
-                    for line in file:
-                        print(line.rstrip())
-            case "exit":
-                print("Еще увидимся!")
-                break
+#
+# def main_task2():
+#     while True:
+#         command = input("Enter command: ")
+#         match command:
+#             case "write":
+#                 with open("journal.txt", 'a') as file:
+#                     text = input("Enter text: ")
+#                     file.write(f"{text}\n")
+#             case "read":
+#                 with open("journal.txt",'r') as file:
+#                     for line in file:
+#                         print(line.rstrip())
+#             case "exit":
+#                 print("Еще увидимся!")
+#                 break
 
 
 # if __name__ == '__main__':
@@ -158,14 +151,14 @@ def main_task2():
 можно сделать.
 """
 
-import json
-
-with open("secret.json", 'r') as file:
-    data = json.load(file)
-
-pixels = data["pixels"]
-for row in pixels:
-    text = ''
-    for c, num in row:
-        text+=c*num
-    print(text)
+# import json
+#
+# with open("secret.json", 'r') as file:
+#     data = json.load(file)
+#
+# pixels = data["pixels"]
+# for row in pixels:
+#     text = ''
+#     for c, num in row:
+#         text+=c*num
+#     print(text)
