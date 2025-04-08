@@ -3,15 +3,23 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BookmarksViewState">
+    <option name="groupLineBookmarks" value="false" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Find the unique number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9_collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9_complicityBigO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/review/book/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/review/image/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/file_io/review/views/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/lesson1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson10/lesson10API.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HW9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HW9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/file_io/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/file_io/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/file_io/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/students.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/file_io/students.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/students.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +45,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/fcukss/PyLearn.git&quot;,
-    &quot;accountId&quot;: &quot;79d01766-baec-4549-9cb7-8955a311c6c9&quot;
+    &quot;accountId&quot;: &quot;cec20cdc-c9c3-4114-84c0-88f41a750498&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -56,6 +64,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for lesson1.test_locked_out_user_error_message.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_convert0.test_float_conversion.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_hello.test_argument.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_bank.py.executor&quot;: &quot;Run&quot;,
@@ -93,6 +102,9 @@
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.game.executor&quot;: &quot;Run&quot;,
     &quot;Python.hello (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson10API.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson7_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.libraries.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
@@ -112,22 +124,25 @@
     &quot;Python.test_twttr.executor&quot;: &quot;Run&quot;,
     &quot;Python.twttr (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.twttr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Stas/PYTHON/PyLearn&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Stas/PYTHON/PyLearn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\lesson" />
+      <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\review" />
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\Twitter" />
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\UItest" />
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\museum" />
-      <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\Codewars\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW9">
-    <configuration name="Find the unique number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson1">
+    <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars/codewars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/codewars/Find the unique number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/image/image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HW9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/HW9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/lesson1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="review9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson10API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson10/lesson10API.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="review9_collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io/review/views" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9_collections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/review/views/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,49 +230,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="review9_complicityBigO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for lesson1.test_locked_out_user_error_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson9/review9_complicityBigO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lesson1.test_locked_out_user_error_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Find the unique number" />
-      <item itemvalue="Python.HW9" />
-      <item itemvalue="Python.review9" />
-      <item itemvalue="Python.review9_collections" />
-      <item itemvalue="Python.review9_complicityBigO" />
+      <item itemvalue="Python.image" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.lesson10API" />
+      <item itemvalue="Python.lesson1" />
+      <item itemvalue="Python tests.Python tests for lesson1.test_locked_out_user_error_message" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HW9" />
-        <item itemvalue="Python.review9_complicityBigO" />
-        <item itemvalue="Python.review9_collections" />
-        <item itemvalue="Python.review9" />
-        <item itemvalue="Python.Find the unique number" />
+        <item itemvalue="Python.lesson1" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.image" />
+        <item itemvalue="Python.lesson10API" />
+        <item itemvalue="Python tests.Python tests for lesson1.test_locked_out_user_error_message" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -590,8 +598,19 @@
       <option name="project" value="LOCAL" />
       <updated>1742584520088</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="init">
+      <option name="closed" value="true" />
+      <created>1743710878150</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743710878151</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
