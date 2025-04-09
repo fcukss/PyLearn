@@ -7,19 +7,11 @@
     <option name="groupLineBookmarks" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/CS50/file_io/review/book/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/file_io/review/image/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/file_io/review/views/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/lesson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson10/lesson10API.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/file_io/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/file_io/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/file_io/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/students.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/file_io/students.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/lesson/students.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/file_io/review/book/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/review/book/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/lesson1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,76 +54,83 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for lesson1.test_locked_out_user_error_message.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_convert0.test_float_conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_hello.test_argument.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_bank.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_convert0.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_hello.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_plates.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.A Needle in the Haystack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.APIs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bitcoin Price Index.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find all non-consecutive numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find the unique number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HWreview6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HWreview7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.How many consecutive numbers are needed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Largest Elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sum even numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Transpose two strings in an array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Trimming a string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UI_tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.You Got Change.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adieu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bank.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bitcoin (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.cards.executor&quot;: &quot;Run&quot;,
-    &quot;Python.convert1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.emojisi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.figlet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fuel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fuel0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson10API.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson7_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.libraries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nutrition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.plates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.professor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.review.executor&quot;: &quot;Run&quot;,
-    &quot;Python.review9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.review9_collections.executor&quot;: &quot;Run&quot;,
-    &quot;Python.review9_complicityBigO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sayings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.students.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_bank.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_twttr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.twttr (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.twttr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.views.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Stas/PYTHON/PyLearn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for lesson1.test_locked_out_user_error_message.executor": "Run",
+    "Python tests.Python tests for test.test_locked_out_user_error_message.executor": "Run",
+    "Python tests.Python tests for test_convert0.test_float_conversion.executor": "Run",
+    "Python tests.Python tests for test_hello.test_argument.executor": "Run",
+    "Python tests.Python tests in lesson1.py.executor": "Run",
+    "Python tests.Python tests in test.py.executor": "Run",
+    "Python tests.Python tests in test_bank.py.executor": "Run",
+    "Python tests.Python tests in test_convert0.py.executor": "Run",
+    "Python tests.Python tests in test_hello.py.executor": "Run",
+    "Python tests.Python tests in test_plates.py.executor": "Run",
+    "Python.A Needle in the Haystack.executor": "Run",
+    "Python.APIs.executor": "Run",
+    "Python.Bitcoin Price Index.executor": "Run",
+    "Python.Find all non-consecutive numbers.executor": "Run",
+    "Python.Find the unique number.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.HW8.executor": "Run",
+    "Python.HW9.executor": "Run",
+    "Python.HWreview6.executor": "Run",
+    "Python.HWreview7.executor": "Run",
+    "Python.How many consecutive numbers are needed.executor": "Run",
+    "Python.Largest Elements.executor": "Run",
+    "Python.Sum even numbers.executor": "Run",
+    "Python.Transpose two strings in an array.executor": "Run",
+    "Python.Trimming a string.executor": "Run",
+    "Python.UI_tests.executor": "Run",
+    "Python.You Got Change.executor": "Run",
+    "Python.adieu.executor": "Run",
+    "Python.bank.executor": "Run",
+    "Python.bitcoin (1).executor": "Run",
+    "Python.book.executor": "Run",
+    "Python.cards.executor": "Run",
+    "Python.convert1.executor": "Run",
+    "Python.emojisi.executor": "Run",
+    "Python.figlet.executor": "Run",
+    "Python.fuel.executor": "Run",
+    "Python.fuel0.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.hello (1).executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.image.executor": "Run",
+    "Python.lesson1.executor": "Run",
+    "Python.lesson10API.executor": "Run",
+    "Python.lesson7_1.executor": "Run",
+    "Python.libraries.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.names.executor": "Run",
+    "Python.nutrition.executor": "Run",
+    "Python.plates.executor": "Run",
+    "Python.professor.executor": "Run",
+    "Python.review.executor": "Run",
+    "Python.review9.executor": "Run",
+    "Python.review9_collections.executor": "Run",
+    "Python.review9_complicityBigO.executor": "Run",
+    "Python.sayings.executor": "Run",
+    "Python.search.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.students.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_bank.executor": "Run",
+    "Python.test_hello.executor": "Run",
+    "Python.test_twttr.executor": "Run",
+    "Python.twttr (1).executor": "Run",
+    "Python.twttr.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Stas/PYTHON/PyLearn",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\lesson" />
@@ -141,29 +140,7 @@
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\museum" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson1">
-    <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/image" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/image/image.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test.test_locked_out_user_error_message">
     <configuration name="lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
@@ -186,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson10API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/lesson10/lesson10API.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,29 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io/review/views" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/review/views/views.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for lesson1.test_locked_out_user_error_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.test_locked_out_user_error_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,24 +196,54 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;lesson1.test_locked_out_user_error_message&quot;" />
+      <option name="_new_target" value="&quot;test.test_locked_out_user_error_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in lesson1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/lesson1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.image" />
-      <item itemvalue="Python.views" />
-      <item itemvalue="Python.lesson10API" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.lesson1" />
-      <item itemvalue="Python tests.Python tests for lesson1.test_locked_out_user_error_message" />
+      <item itemvalue="Python tests.Python tests for test.test_locked_out_user_error_message" />
+      <item itemvalue="Python tests.Python tests in lesson1.py" />
+      <item itemvalue="Python tests.Python tests in test.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test.test_locked_out_user_error_message" />
+        <item itemvalue="Python tests.Python tests in test.py" />
+        <item itemvalue="Python tests.Python tests in lesson1.py" />
         <item itemvalue="Python.lesson1" />
-        <item itemvalue="Python.views" />
-        <item itemvalue="Python.image" />
-        <item itemvalue="Python.lesson10API" />
-        <item itemvalue="Python tests.Python tests for lesson1.test_locked_out_user_error_message" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +591,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743710878151</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="update">
+      <option name="closed" value="true" />
+      <created>1744140916077</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1744140916078</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update">
+      <option name="closed" value="true" />
+      <created>1744140977576</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1744140977576</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -641,9 +642,9 @@
     <MESSAGE value="нет изменений" />
     <MESSAGE value="add lambda func" />
     <MESSAGE value="map, filter, reduce,counter, decorator" />
-    <MESSAGE value="update" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

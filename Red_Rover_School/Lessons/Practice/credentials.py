@@ -1,0 +1,1 @@
+EDGE_DRIVER_PATH = r"C:\webdrivers\msedgedriver.exe"

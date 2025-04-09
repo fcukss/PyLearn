@@ -1,14 +1,18 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
 
-from webdriver_manager.chrome import ChromeDriverManager
+def test_locked_out_user_error_message():
+    driver = webdriver.Chrome()
 
-# (pip install webdriver-manager)
+    target_driver_version = "135.0.7049.85"
+    driver.get("https://www.saucedemo.com/")
+    driver.find_element(By.ID, 'user-name').send_keys("locked_out_user")
+    driver.find_element(By.ID, 'password').send_keys("secret_sauce")
+    driver.find_element(By.NAME, 'login-button').click()
 
-service = Service(ChromeDriverManager().install())
+    error_message = driver.find_element(By.XPATH, "//h3[@data-test='error']")
+    assert error_message.text == "Epic sadface: Sorry, this user has been locked out."
+    driver.quit()
 
-driver = webdriver.Chrome(service=service)
+#135.0.7049.85
 
-# code ...
-
-driver.quit()
