@@ -17,7 +17,7 @@ $  - конец строки
 
 email = input("What's your email? ").strip()
 
-if re.search(r"^\w+@\w+\.com$", email):
+if re.search(r"^\w+@(\w+\.)?/w+.com$", email, re.IGNORECASE):
     print("Valid")
 else:
     print("Invalid")

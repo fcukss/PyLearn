@@ -8,12 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/CS50/file_io/HW/pizza/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/file_io/HW/scourgify/scourgify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/file_io/HW/shirt/shirt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/HW/numb3rs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/HW/watch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/lesson/format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/lesson/twitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/review/colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regexes/lesson/validate_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codewars/checkio/Ascending List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codewars/checkio/convert_Date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Highest and Lowest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/file_io/HW/lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/file_io/HW/lines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/regex/lesson/validate_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/regex/lesson/validate_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/credentials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +79,10 @@
     "Python tests.Python tests in test_hello.py.executor": "Run",
     "Python tests.Python tests in test_login_pass.py.executor": "Run",
     "Python tests.Python tests in test_plates.py.executor": "Run",
+    "Python tests.Python tests in watch.py.executor": "Run",
     "Python.A Needle in the Haystack.executor": "Run",
     "Python.APIs.executor": "Run",
+    "Python.Ascending List.executor": "Run",
     "Python.Bitcoin Price Index.executor": "Run",
     "Python.Find all non-consecutive numbers.executor": "Run",
     "Python.Find the unique number.executor": "Run",
@@ -83,6 +93,7 @@
     "Python.HW9.executor": "Run",
     "Python.HWreview6.executor": "Run",
     "Python.HWreview7.executor": "Run",
+    "Python.Highest and Lowest.executor": "Run",
     "Python.How many consecutive numbers are needed.executor": "Run",
     "Python.Largest Elements.executor": "Run",
     "Python.Sum even numbers.executor": "Run",
@@ -95,9 +106,12 @@
     "Python.bitcoin (1).executor": "Run",
     "Python.book.executor": "Run",
     "Python.cards.executor": "Run",
+    "Python.colors.executor": "Run",
     "Python.convert1.executor": "Run",
+    "Python.convert_Date.executor": "Run",
     "Python.emojisi.executor": "Run",
     "Python.figlet.executor": "Run",
+    "Python.format.executor": "Run",
     "Python.fuel.executor": "Run",
     "Python.fuel0.executor": "Run",
     "Python.functions.executor": "Run",
@@ -112,6 +126,7 @@
     "Python.lines.executor": "Run",
     "Python.main.executor": "Run",
     "Python.names.executor": "Run",
+    "Python.numb3rs.executor": "Run",
     "Python.nutrition.executor": "Run",
     "Python.pizza.executor": "Run",
     "Python.plates.executor": "Run",
@@ -129,9 +144,12 @@
     "Python.test_bank.executor": "Run",
     "Python.test_hello.executor": "Run",
     "Python.test_twttr.executor": "Run",
+    "Python.twitter.executor": "Run",
     "Python.twttr (1).executor": "Run",
     "Python.twttr.executor": "Run",
+    "Python.validate.executor": "Run",
     "Python.views.executor": "Run",
+    "Python.watch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -148,8 +166,8 @@
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\museum" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scourgify">
-    <configuration name="lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in watch.py">
+    <configuration name="colors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io/HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/HW/lines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/review/colors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numb3rs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io/HW/pizza" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/HW/pizza/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/HW/numb3rs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scourgify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="twitter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/file_io/HW/scourgify" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/file_io/HW/scourgify/scourgify.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/lesson/twitter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,50 +233,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_login_pass.test_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="watch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/HW/watch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in watch.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_pass.test_positive&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_login_pass.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyLearn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CS50/regex/HW/watch.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.scourgify" />
-      <item itemvalue="Python.pizza" />
-      <item itemvalue="Python.lines" />
-      <item itemvalue="Python tests.Python tests for test_login_pass.test_positive" />
-      <item itemvalue="Python tests.Python tests in test_login_pass.py" />
+      <item itemvalue="Python.colors" />
+      <item itemvalue="Python.numb3rs" />
+      <item itemvalue="Python.twitter" />
+      <item itemvalue="Python.watch" />
+      <item itemvalue="Python tests.Python tests in watch.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scourgify" />
-        <item itemvalue="Python.pizza" />
-        <item itemvalue="Python.lines" />
-        <item itemvalue="Python tests.Python tests for test_login_pass.test_positive" />
-        <item itemvalue="Python tests.Python tests in test_login_pass.py" />
+        <item itemvalue="Python tests.Python tests in watch.py" />
+        <item itemvalue="Python.watch" />
+        <item itemvalue="Python.numb3rs" />
+        <item itemvalue="Python.colors" />
+        <item itemvalue="Python.twitter" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744306972022</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="update">
+      <option name="closed" value="true" />
+      <created>1744315882339</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1744315882339</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="UnknownFeatures">

@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 from credentials import EDGE_DRIVER_PATH
+
 def test_locked_out_user_error_message():
     options = EdgeOptions()
     service = EdgeService(executable_path=EDGE_DRIVER_PATH)
