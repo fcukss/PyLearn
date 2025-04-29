@@ -1,8 +1,5 @@
 import re
 
-from numpy.random import pareto
-
-
 def main():
     print(parse("http://youtube.com/embed/xvFZjo5PgG0"))
 
