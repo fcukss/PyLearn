@@ -22,6 +22,10 @@ class Student:
     # getter
     @property
     def house(self):
+        """
+
+        :return:
+        """
         return self._house
 
     @house.setter
@@ -30,17 +34,15 @@ class Student:
             raise ValueError('Invalid house')
         self._house = house
 
+    @classmethod
+    def get(cls):
+        name = input("Name ")
+        house  = input('House ')
+        return cls(name, house)
+
 
 def main():
-    student = get_student()
- #   student.house = "Number Four, Private Derive"
-    print(student)
-
-
-def get_student():
-    name = input('Name: ')
-    house = input('House: ')
-    return Student(name, house)
+    print(Student.get())
 
 
 if __name__ == '__main__':
