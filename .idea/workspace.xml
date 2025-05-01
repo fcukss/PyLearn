@@ -8,20 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/CS50/regex/HW/numb3rs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/regex/HW/watch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/regex/lesson/format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/regex/lesson/twitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/regex/review/colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/regexes/lesson/validate_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/checkio/Ascending List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/checkio/convert_Date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Highest and Lowest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/OOP/lesson/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/HW/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS50/regex/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/regex/lesson/validate_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/regex/lesson/validate_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/credentials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/OOP/lesson/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/OOP/lesson/hat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS50/regex/HW/um.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/regex/HW/um.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +60,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for lesson1.test_locked_out_user_error_message.executor": "Run",
+    "Python tests.Python tests for response.test_is_valid.executor": "Run",
     "Python tests.Python tests for test.test_locked_out_user_error_message.executor": "Run",
     "Python tests.Python tests for test_convert0.test_float_conversion.executor": "Run",
     "Python tests.Python tests for test_hello.test_argument.executor": "Run",
     "Python tests.Python tests for test_login_pass.test_incorrect_user.executor": "Run",
     "Python tests.Python tests for test_login_pass.test_positive.executor": "Run",
+    "Python tests.Python tests for um.test_count.executor": "Run",
+    "Python tests.Python tests for working.test_convert.executor": "Run",
     "Python tests.Python tests in lesson1.py.executor": "Run",
     "Python tests.Python tests in test.py.executor": "Run",
     "Python tests.Python tests in test_bank.py.executor": "Run",
@@ -79,7 +75,9 @@
     "Python tests.Python tests in test_hello.py.executor": "Run",
     "Python tests.Python tests in test_login_pass.py.executor": "Run",
     "Python tests.Python tests in test_plates.py.executor": "Run",
+    "Python tests.Python tests in um.py.executor": "Run",
     "Python tests.Python tests in watch.py.executor": "Run",
+    "Python tests.Python tests in working.py.executor": "Run",
     "Python.A Needle in the Haystack.executor": "Run",
     "Python.APIs.executor": "Run",
     "Python.Ascending List.executor": "Run",
@@ -116,6 +114,7 @@
     "Python.fuel0.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.game.executor": "Run",
+    "Python.hat.executor": "Run",
     "Python.hello (1).executor": "Run",
     "Python.hello.executor": "Run",
     "Python.image.executor": "Run",
@@ -139,6 +138,7 @@
     "Python.scourgify.executor": "Run",
     "Python.search.executor": "Run",
     "Python.strings.executor": "Run",
+    "Python.student.executor": "Run",
     "Python.students.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test_bank.executor": "Run",
@@ -147,9 +147,11 @@
     "Python.twitter.executor": "Run",
     "Python.twttr (1).executor": "Run",
     "Python.twttr.executor": "Run",
+    "Python.um.executor": "Run",
     "Python.validate.executor": "Run",
     "Python.views.executor": "Run",
     "Python.watch.executor": "Run",
+    "Python.working.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -159,15 +161,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\OOP\lesson" />
+      <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\OOP" />
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\lesson" />
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\review" />
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\Twitter" />
-      <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\UItest" />
-      <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\museum" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in watch.py">
-    <configuration name="colors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hat">
+    <configuration name="hat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/review/colors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/lesson/hat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numb3rs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/HW/numb3rs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/lesson/student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,51 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="twitter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/lesson" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/lesson/twitter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="watch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/regex/HW/watch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in watch.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for response.test_is_valid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,24 +224,54 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/CS50/regex/HW/watch.py&quot;" />
+      <option name="_new_target" value="&quot;response.test_is_valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for um.test_count" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;um.test_count&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in um.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/regex/HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CS50/regex/HW/um.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.colors" />
-      <item itemvalue="Python.numb3rs" />
-      <item itemvalue="Python.twitter" />
-      <item itemvalue="Python.watch" />
-      <item itemvalue="Python tests.Python tests in watch.py" />
+      <item itemvalue="Python.hat" />
+      <item itemvalue="Python.student" />
+      <item itemvalue="Python tests.Python tests for response.test_is_valid" />
+      <item itemvalue="Python tests.Python tests for um.test_count" />
+      <item itemvalue="Python tests.Python tests in um.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in watch.py" />
-        <item itemvalue="Python.watch" />
-        <item itemvalue="Python.numb3rs" />
-        <item itemvalue="Python.colors" />
-        <item itemvalue="Python.twitter" />
+        <item itemvalue="Python.hat" />
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python tests.Python tests for response.test_is_valid" />
+        <item itemvalue="Python tests.Python tests for um.test_count" />
+        <item itemvalue="Python tests.Python tests in um.py" />
       </list>
     </recent_temporary>
   </component>
@@ -671,7 +659,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744315882339</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="update">
+      <option name="closed" value="true" />
+      <created>1745435760116</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1745435760116</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update">
+      <option name="closed" value="true" />
+      <created>1745949389389</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1745949389389</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="UnknownFeatures">
