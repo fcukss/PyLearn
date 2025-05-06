@@ -8,12 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/CS50/OOP/HW/seasons_of_love.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/OOP/lesson/vault.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/OOP/review/Food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS50/OOP/review/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests/test_create_job.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests/test_log_in.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS50/OOP/lesson/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS50/OOP/lesson/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Red_Rover_School/Lessons/Practice/test_login_pass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +59,13 @@
   "keyToString": {
     "Python tests.Python tests for lesson1.test_locked_out_user_error_message.executor": "Run",
     "Python tests.Python tests for response.test_is_valid.executor": "Run",
+    "Python tests.Python tests for test.test_incorrect_user.executor": "Run",
     "Python tests.Python tests for test.test_locked_out_user_error_message.executor": "Run",
+    "Python tests.Python tests for test.test_positive.executor": "Run",
     "Python tests.Python tests for test_convert0.test_float_conversion.executor": "Run",
+    "Python tests.Python tests for test_create_job.test_create_job.executor": "Run",
+    "Python tests.Python tests for test_create_job.test_logged.executor": "Run",
+    "Python tests.Python tests for test_create_job.test_login.executor": "Run",
     "Python tests.Python tests for test_hello.test_argument.executor": "Run",
     "Python tests.Python tests for test_login_pass.test_incorrect_user.executor": "Run",
     "Python tests.Python tests for test_login_pass.test_positive.executor": "Run",
@@ -71,7 +75,9 @@
     "Python tests.Python tests in test.py.executor": "Run",
     "Python tests.Python tests in test_bank.py.executor": "Run",
     "Python tests.Python tests in test_convert0.py.executor": "Run",
+    "Python tests.Python tests in test_create_job.py.executor": "Run",
     "Python tests.Python tests in test_hello.py.executor": "Run",
+    "Python tests.Python tests in test_log_in.py.executor": "Run",
     "Python tests.Python tests in test_login_pass.py.executor": "Run",
     "Python tests.Python tests in test_plates.py.executor": "Run",
     "Python tests.Python tests in um.py.executor": "Run",
@@ -105,6 +111,7 @@
     "Python.book.executor": "Run",
     "Python.cards.executor": "Run",
     "Python.colors.executor": "Run",
+    "Python.conftest.executor": "Run",
     "Python.convert1.executor": "Run",
     "Python.convert_Date.executor": "Run",
     "Python.emojisi.executor": "Run",
@@ -157,11 +164,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Stas/PYTHON/PyLearn",
+    "last_opened_file_path": "C:/Stas/service/PythonProject/PyLearn/Red_Rover_School/Home_tasks/jenkins_tests",
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Stas\service\PythonProject\PyLearn\Red_Rover_School\Home_tasks\jenkins_tests" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\OOP\lesson" />
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\OOP" />
@@ -170,8 +180,8 @@
       <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\Twitter" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.packages">
-    <configuration name="Food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_create_job.test_create_job">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/review/Food.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests/conftest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,108 +203,80 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Red_Rover_School.Home_tasks.jenkins_tests.test_log_in.test_logged" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/lesson/hat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Red_Rover_School.Home_tasks.jenkins_tests.test_log_in.test_logged&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="packages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_create_job.test_create_job" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/review/packages.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_create_job.test_create_job&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_create_job.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/lesson/student.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests/test_create_job.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="vault" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_log_in.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS50/OOP/lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS50/OOP/lesson/vault.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests/test_log_in.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Food" />
-      <item itemvalue="Python.hat" />
-      <item itemvalue="Python.packages" />
-      <item itemvalue="Python.vault" />
-      <item itemvalue="Python.student" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python tests.Python tests for Red_Rover_School.Home_tasks.jenkins_tests.test_log_in.test_logged" />
+      <item itemvalue="Python tests.Python tests for test_create_job.test_create_job" />
+      <item itemvalue="Python tests.Python tests in test_create_job.py" />
+      <item itemvalue="Python tests.Python tests in test_log_in.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.packages" />
-        <item itemvalue="Python.Food" />
-        <item itemvalue="Python.vault" />
-        <item itemvalue="Python.student" />
-        <item itemvalue="Python.hat" />
+        <item itemvalue="Python tests.Python tests for test_create_job.test_create_job" />
+        <item itemvalue="Python tests.Python tests in test_create_job.py" />
+        <item itemvalue="Python tests.Python tests in test_log_in.py" />
+        <item itemvalue="Python tests.Python tests for Red_Rover_School.Home_tasks.jenkins_tests.test_log_in.test_logged" />
+        <item itemvalue="Python.conftest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,14 +295,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737911528882</updated>
-    </task>
-    <task id="LOCAL-00001" summary="task2_done">
-      <option name="closed" value="true" />
-      <created>1740574963064</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1740574963064</updated>
     </task>
     <task id="LOCAL-00002" summary="init">
       <option name="closed" value="true" />
@@ -706,7 +680,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746120618551</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="update">
+      <option name="closed" value="true" />
+      <created>1746130168868</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1746130168868</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="UnknownFeatures">
