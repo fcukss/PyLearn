@@ -5,14 +5,12 @@ from selenium.webdriver.common.by import By
 import pytest
 
 
-
 @pytest.fixture()
 def driver():
     service = EdgeService(executable_path=EDGE_DRIVER_PATH)
     driver = webdriver.Edge(service=service)
     yield driver
     driver.quit()
-
 
 
 def test_positive(driver):
