@@ -28,3 +28,9 @@ print(person.pop('test', "нет такого")) #нет такого
 #add element to dictionary
 person ['age'] = 33
 print(person) # {'last name': 'Solo', 'age': 33}
+
+
+
+def evaluate_groceries(grocery_list):
+    for grocery in range(len(grocery_list)):
+        print(grocery)

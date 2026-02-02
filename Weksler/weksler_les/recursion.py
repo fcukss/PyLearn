@@ -29,53 +29,51 @@
 print('-----------------------------------------------')
 
 
-# def print_recursively(dict):
-#     def traverse(dict):
-#         print(dict["path"])
-#         for item in dict.get("content", []):
-#             traverse(item)
-#     traverse(dict)
+def print_recursively(files):
+    print(files['path'])
+    for i in files['content']:
+        print_recursively(i)
 
 
-# filesystem = {
-#     'path': 'C:',
-#     'content': [
-#         {
-#             'path': 'documents',
-#             'content': [
-#                 {
-#                     'path': 'pictures',
-#                     'content': [
-#                         {
-#                             'path': 'me.png',
-#                             'content': [],
-#                         },
-#                         {
-#                             'path': 'keks.png',
-#                             'content': [],
-#                         }
-#                     ]
-#                 }
-#             ]
-#         }
-#     ]
-# }
-#
-# print_recursively(filesystem)
+filesystem = {
+    'path': 'C:',
+    'content': [
+        {
+            'path': 'documents',
+            'content': [
+                {
+                    'path': 'pictures',
+                    'content': [
+                        {
+                            'path': 'me.png',
+                            'content': [],
+                        },
+                        {
+                            'path': 'keks.png',
+                            'content': [],
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+print_recursively(filesystem)
 
 print('-----------------------------------------------')
-
-def print_recursively(new_list):
-    for item in new_list:
-        if isinstance(item, list):
-            print_recursively(item)
-        else:
-            print(item)
-
-
-list_of_lists = [10, [[1, [2, 3, [1]]], [1, [2]]]]
-
-print_recursively(list_of_lists)
-
-print(isinstance(list_of_lists[0], list))
-print(isinstance(list_of_lists[1], list))
+#
+# def print_recursively(new_list):
+#     for item in new_list:
+#         if isinstance(item, list):
+#             print_recursively(item)
+#         else:
+#             print(item)
+#
+#
+# list_of_lists = [10, [[1, [2, 3, [1]]], [1, [2]]]]
+#
+# print_recursively(list_of_lists)
+#
+# print(isinstance(list_of_lists[0], list))
+# print(isinstance(list_of_lists[1], list))

@@ -35,3 +35,24 @@ def odd_numbers(target):
     for number in range(target):
         if number % 2 != 0:
             print(number)
+
+
+
+print("+++++++++++++++++++++++++++++++++++++")
+import datetime
+
+today = datetime.date.today()
+
+print("+++++++++++++++++++++++++++++++++++++")
+import time
+
+def count():
+    i = 0
+    end_time = time.time() + 0.5
+    while time.time() < end_time:
+        time.sleep(0.1)
+        print(i)
+        i += 1
+
+
+count()
