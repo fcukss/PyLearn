@@ -1,9 +1,13 @@
 from fastapi import HTTPException
+from fastapi.params import Depends
+
 from models import Prescription, MedicalItem
 from database import db_prescriptions,db_doctors,db_items
 from typing import Literal
 
 from fastapi import APIRouter
+
+from auth_logic import get_current_user
 
 router = APIRouter()
 
@@ -124,11 +128,15 @@ def get_doctors_item_info(doctor_id:int):
         'items_created' : data
     }
 @router.post('/prescriptions/')
-def create_prescription(prescription: Prescription):
+def create_prescription(
+        prescription: Prescription,
+        current_user: dict = Depends(get_current_user)
+):
     items = db_items.load()
     doctors = db_doctors.load()
     current_prescriptions = db_prescriptions.load()
 
+    print(f"ЗАГРУЖЕННЫЕ ПРЕДМЕТЫ: {items}")
 
     if any(p['id']==prescription.id for p in current_prescriptions):
         raise HTTPException(status_code=400, detail='Prescription ID already exists')
@@ -149,4 +157,6 @@ def create_prescription(prescription: Prescription):
 
     current_prescriptions.append(prescription.model_dump())
     db_prescriptions.save(current_prescriptions)
-    return {"message": "Prescription created", "remaining_stock": item['stock']}
+    return {"message": "Prescription created",
+            "remaining_stock": item['stock'],
+            "doctor_acting": current_user["username"]}

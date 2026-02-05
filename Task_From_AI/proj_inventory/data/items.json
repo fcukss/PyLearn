@@ -3,7 +3,7 @@
         "id": 101,
         "name": "Vicodin",
         "price": 50.0,
-        "stock": 5,
+        "stock": 100,
         "is_sterile": false,
         "expire_date": "2026-05-20",
         "created_by_doctor_id": 1
@@ -12,7 +12,7 @@
         "id": 102,
         "name": "Scalpel set",
         "price": 250.0,
-        "stock": 5,
+        "stock": 100,
         "is_sterile": true,
         "expire_date": "2030-01-01",
         "created_by_doctor_id": 2
@@ -21,7 +21,7 @@
         "id": 103,
         "name": "Aspirin",
         "price": 5.5,
-        "stock": 0,
+        "stock": 100,
         "is_sterile": false,
         "expire_date": "2025-12-01",
         "created_by_doctor_id": 3

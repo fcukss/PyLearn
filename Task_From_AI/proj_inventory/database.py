@@ -1,5 +1,6 @@
 import json
 import os.path
+current_dir = os.path.dirname(os.path.abspath(__file__))
 
 class JSONDatabase:
     def __init__(self, filename:str):
@@ -30,7 +31,11 @@ class JSONDatabase:
             return False  # Ничего не нашли для удаления
         self.save(new_data)
         return True
+doctors_path = os.path.join(current_dir, 'data', 'doctors.json')
+items_path = os.path.join(current_dir, 'data', 'items.json')
+prescriptions_path = os.path.join(current_dir, 'data', 'prescriptions.json')
 
-db_items = JSONDatabase("data/hospital.json")
-db_doctors = JSONDatabase('data/doctors.json')
-db_prescriptions = JSONDatabase("data/prescriptions.json")
+
+db_doctors = JSONDatabase(doctors_path)
+db_items = JSONDatabase(items_path)
+db_prescriptions = JSONDatabase(prescriptions_path)

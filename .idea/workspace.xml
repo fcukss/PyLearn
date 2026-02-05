@@ -7,40 +7,18 @@
     <option name="groupLineBookmarks" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.github/copilot-instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Convert a Boolean to a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Ones and Zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Parse nice int from char problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/Shortest Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/codewars/two_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumPy/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumPy/dataCamp/less1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumPy/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyDantic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_From_AI/FastApi_les.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_From_AI/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_From_AI/exception_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_From_AI/mini_proj_serialization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_From_AI/pydantic_les.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_From_AI/serialisation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/json_les.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/poem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/requests_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/strings_methods.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/strings_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weksler/weksler_les/time.py" afterDir="false" />
+    <list default="true" id="68712c7d-50a1-45eb-a2c8-2c0a8514bce1" name="Changes" comment="Proj_Medical System API">
+      <change afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/auth_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/data/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/tests/test_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PyLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weksler/weksler_les/List_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weksler/weksler_les/List_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weksler/weksler_les/bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weksler/weksler_les/bank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weksler/weksler_les/dictionary_mathods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weksler/weksler_les/dictionary_mathods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weksler/weksler_les/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weksler/weksler_les/loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weksler/weksler_les/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weksler/weksler_les/recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/explore-data/student_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/explore-data/student_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_From_AI/proj_inventory/data/hospital.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/data/items.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_From_AI/proj_inventory/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_From_AI/proj_inventory/routers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_From_AI/proj_inventory/routers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/список_дел/resources.py" beforeDir="false" afterPath="$PROJECT_DIR$/список_дел/resources.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +45,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/fcukss/PyLearn.git&quot;,
-    &quot;accountId&quot;: &quot;cec20cdc-c9c3-4114-84c0-88f41a750498&quot;
+    &quot;accountId&quot;: &quot;ac86b241-5924-4595-a0a3-57f92c1629c1&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -114,6 +92,16 @@
     &quot;Python tests.Python tests in um.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in watch.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in working.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for Task_From_AI.proj_inventory.test_main.test_get_nonexistant_doctor.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for Task_From_AI.proj_inventory.test_main.test_read_stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for Task_From_AI.proj_inventory.tests.test_main.test_read_stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_create_prescription_unauthorized.test_create_prescription_authorized.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for tests.test_main.test_create_prescription_authorized.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for tests.test_main.test_create_prescription_unauthorized.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for tests.test_main.test_debug_routes.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for tests.test_main.test_get_nonexistant_doctor.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for tests.test_main.test_read_stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_main.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.A Needle in the Haystack.executor&quot;: &quot;Run&quot;,
     &quot;Python.APIs.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ascending List.executor&quot;: &quot;Run&quot;,
@@ -171,6 +159,7 @@
     &quot;Python.libraries.executor&quot;: &quot;Run&quot;,
     &quot;Python.lines.executor&quot;: &quot;Run&quot;,
     &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.matrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.mini_proj_serialization.executor&quot;: &quot;Run&quot;,
@@ -189,6 +178,7 @@
     &quot;Python.review9.executor&quot;: &quot;Run&quot;,
     &quot;Python.review9_collections.executor&quot;: &quot;Run&quot;,
     &quot;Python.review9_complicityBigO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.routers.executor&quot;: &quot;Run&quot;,
     &quot;Python.sayings.executor&quot;: &quot;Run&quot;,
     &quot;Python.scourgify.executor&quot;: &quot;Run&quot;,
     &quot;Python.search.executor&quot;: &quot;Run&quot;,
@@ -200,6 +190,7 @@
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_bank.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_twttr.executor&quot;: &quot;Run&quot;,
     &quot;Python.time.executor&quot;: &quot;Run&quot;,
     &quot;Python.twitter.executor&quot;: &quot;Run&quot;,
@@ -219,7 +210,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Stas/service/PythonProject/PyLearn/Red_Rover_School/Home_tasks/jenkins_tests&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -228,15 +219,15 @@
       <recent name="C:\Stas\service\PythonProject\PyLearn\Red_Rover_School\Home_tasks\jenkins_tests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Stas\service\Python\PyLearn\Task_From_AI\proj_inventory\" />
+      <recent name="C:\Stas\service\Python\PyLearn\Task_From_AI\proj_inventory\tests" />
+      <recent name="C:\Stas\service\Python\PyLearn\Task_From_AI\proj_inventory\data" />
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\OOP\lesson" />
       <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\OOP" />
-      <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\lesson" />
-      <recent name="C:\Stas\service\PythonProject\PyLearn\CS50\file_io\review" />
-      <recent name="D:\Stas\PYTHON\PyLearn\PyLearn\CS50\Twitter" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FastApi_les">
-    <configuration name="FastApi_les" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_main.py">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,13 +236,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_From_AI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_From_AI/proj_inventory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_From_AI/FastApi_les.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_From_AI/proj_inventory/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,14 +251,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PyDantic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for tests.test_main.test_create_prescription_authorized" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -275,101 +263,84 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyDantic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_main.test_create_prescription_authorized&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pydantic_les" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for tests.test_main.test_get_nonexistant_doctor" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_From_AI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_From_AI/pydantic_les.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_main.test_get_nonexistant_doctor&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for tests.test_main.test_read_stats" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weksler/weksler_les" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weksler/weksler_les/recursion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_main.test_read_stats&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="requests_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_main.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weksler/weksler_les" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weksler/weksler_les/requests_API.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Task_From_AI/proj_inventory/tests/test_main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FastApi_les" />
-      <item itemvalue="Python.PyDantic" />
-      <item itemvalue="Python.pydantic_les" />
-      <item itemvalue="Python.recursion" />
-      <item itemvalue="Python.requests_API" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.pytest in test_main.py" />
+      <item itemvalue="Python tests.pytest for tests.test_main.test_create_prescription_authorized" />
+      <item itemvalue="Python tests.pytest for tests.test_main.test_get_nonexistant_doctor" />
+      <item itemvalue="Python tests.pytest for tests.test_main.test_read_stats" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FastApi_les" />
-        <item itemvalue="Python.pydantic_les" />
-        <item itemvalue="Python.PyDantic" />
-        <item itemvalue="Python.requests_API" />
-        <item itemvalue="Python.recursion" />
+        <item itemvalue="Python tests.pytest in test_main.py" />
+        <item itemvalue="Python tests.pytest for tests.test_main.test_create_prescription_authorized" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.pytest for tests.test_main.test_get_nonexistant_doctor" />
+        <item itemvalue="Python tests.pytest for tests.test_main.test_read_stats" />
       </list>
     </recent_temporary>
   </component>
@@ -404,23 +375,9 @@
       <workItem from="1769800181245" duration="1524000" />
       <workItem from="1769886883384" duration="6721000" />
       <workItem from="1769977072340" duration="7621000" />
-      <workItem from="1770031530284" duration="2684000" />
-    </task>
-    <task id="LOCAL-00002" summary="init">
-      <option name="closed" value="true" />
-      <created>1740604899667</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1740604899667</updated>
-    </task>
-    <task id="LOCAL-00003" summary="init">
-      <option name="closed" value="true" />
-      <created>1740604919704</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1740604919704</updated>
+      <workItem from="1770031530284" duration="11204000" />
+      <workItem from="1770206754452" duration="20679000" />
+      <workItem from="1770318202247" duration="2432000" />
     </task>
     <task id="LOCAL-00004" summary="init">
       <option name="closed" value="true" />
@@ -798,7 +755,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746130168868</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update 2026">
+      <option name="closed" value="true" />
+      <created>1770037863470</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1770037863470</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Proj_Medical System API">
+      <option name="closed" value="true" />
+      <created>1770235358419</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1770235358419</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -838,7 +811,9 @@
     <MESSAGE value="map, filter, reduce,counter, decorator" />
     <MESSAGE value="init" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update 2026" />
+    <MESSAGE value="Proj_Medical System API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proj_Medical System API" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -862,24 +837,36 @@
     <SUITE FILE_PATH="coverage/PyLearn$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1769800548118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
     <SUITE FILE_PATH="coverage/PyLearn$.coverage" NAME=" Coverage Results" MODIFIED="1768910589355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Red_Rover_School/Home_tasks/jenkins_tests" />
     <SUITE FILE_PATH="coverage/PyLearn$poem.coverage" NAME="poem Coverage Results" MODIFIED="1769369925606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_tests_test_main_test_debug_routes.coverage" NAME="pytest for tests.test_main.test_debug_routes Coverage Results" MODIFIED="1770239633036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyLearn$bank.coverage" NAME="bank Coverage Results" MODIFIED="1769365250043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
-    <SUITE FILE_PATH="coverage/PyLearn$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1768914809901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
-    <SUITE FILE_PATH="coverage/PyLearn$main.coverage" NAME="main Coverage Results" MODIFIED="1768915591466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/CarCalculator" />
     <SUITE FILE_PATH="coverage/PyLearn$requests_API.coverage" NAME="requests_API Coverage Results" MODIFIED="1769981497795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_tests_test_main_test_create_prescription_authorized.coverage" NAME="pytest for tests.test_main.test_create_prescription_authorized Coverage Results" MODIFIED="1770320257279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyLearn$mini_proj_serialization.coverage" NAME="mini_proj_serialization Coverage Results" MODIFIED="1769633925381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
     <SUITE FILE_PATH="coverage/PyLearn$matrix.coverage" NAME="matrix Coverage Results" MODIFIED="1769097871627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumPy" />
     <SUITE FILE_PATH="coverage/PyLearn$arrays.coverage" NAME="arrays Coverage Results" MODIFIED="1769096142410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumPy" />
     <SUITE FILE_PATH="coverage/PyLearn$List_methods.coverage" NAME="List_methods Coverage Results" MODIFIED="1769068541330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
     <SUITE FILE_PATH="coverage/PyLearn$less1.coverage" NAME="less1 Coverage Results" MODIFIED="1769005938597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumPy/dataCamp" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_tests_test_main_test_read_stats.coverage" NAME="pytest for tests.test_main.test_read_stats Coverage Results" MODIFIED="1770239922284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_in_test_main_py.coverage" NAME="pytest in test_main.py Coverage Results" MODIFIED="1770320268568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_Task_From_AI_proj_inventory_test_main_test_read_stats.coverage" NAME="pytest for Task_From_AI.proj_inventory.tests.test_main.test_read_stats Coverage Results" MODIFIED="1770238013604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_tests_test_main_test_create_prescription_unauthorized.coverage" NAME="pytest for tests.test_main.test_create_prescription_unauthorized Coverage Results" MODIFIED="1770239212805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1769686586277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
+    <SUITE FILE_PATH="coverage/PyLearn$exception_json.coverage" NAME="exception_json Coverage Results" MODIFIED="1769683970354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
+    <SUITE FILE_PATH="coverage/PyLearn$routers.coverage" NAME="routers Coverage Results" MODIFIED="1770235533633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI/proj_inventory" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_test_main_test_create_prescription_unauthorized_test_create_prescription_authorized.coverage" NAME="pytest for test_main.test_create_prescription_unauthorized.test_create_prescription_authorized Coverage Results" MODIFIED="1770238955579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1768914809901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
+    <SUITE FILE_PATH="coverage/PyLearn$main.coverage" NAME="main Coverage Results" MODIFIED="1770319698349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI/proj_inventory" />
+    <SUITE FILE_PATH="coverage/PyLearn$test_main.coverage" NAME="test_main Coverage Results" MODIFIED="1770236220433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI/proj_inventory" />
+    <SUITE FILE_PATH="coverage/PyLearn$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1770241046145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI/proj_inventory" />
     <SUITE FILE_PATH="coverage/PyLearn$FastApi_les.coverage" NAME="FastApi_les Coverage Results" MODIFIED="1769983889714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
     <SUITE FILE_PATH="coverage/PyLearn$convert0.coverage" NAME="convert0 Coverage Results" MODIFIED="1768910601599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CS50/convert" />
-    <SUITE FILE_PATH="coverage/PyLearn$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1769686586277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
     <SUITE FILE_PATH="coverage/PyLearn$serialisation.coverage" NAME="serialisation Coverage Results" MODIFIED="1769631887545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
-    <SUITE FILE_PATH="coverage/PyLearn$loops.coverage" NAME="loops Coverage Results" MODIFIED="1769189788868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
     <SUITE FILE_PATH="coverage/PyLearn$strings_methods.coverage" NAME="strings_methods Coverage Results" MODIFIED="1769367999262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
-    <SUITE FILE_PATH="coverage/PyLearn$exception_json.coverage" NAME="exception_json Coverage Results" MODIFIED="1769683970354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
+    <SUITE FILE_PATH="coverage/PyLearn$loops.coverage" NAME="loops Coverage Results" MODIFIED="1769189788868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
     <SUITE FILE_PATH="coverage/PyLearn$time.coverage" NAME="time Coverage Results" MODIFIED="1769288234238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weksler/weksler_les" />
     <SUITE FILE_PATH="coverage/PyLearn$pydantic_les.coverage" NAME="pydantic_les Coverage Results" MODIFIED="1769981607446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_From_AI" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_Task_From_AI_proj_inventory_test_main_test_get_nonexistant_doctor.coverage" NAME="pytest for Task_From_AI.proj_inventory.test_main.test_get_nonexistant_doctor Coverage Results" MODIFIED="1770237276527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$pytest_for_tests_test_main_test_get_nonexistant_doctor.coverage" NAME="pytest for tests.test_main.test_get_nonexistant_doctor Coverage Results" MODIFIED="1770240523996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyLearn$PyDantic.coverage" NAME="PyDantic Coverage Results" MODIFIED="1769981555065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

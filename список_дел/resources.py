@@ -1,4 +1,7 @@
 import json
+
+import uvicorn
+
 from test_json import entry
 
 
@@ -52,3 +55,4 @@ def print_with_indent(value, indent=0):
 new_entry = Entry.entry_from_json(entry)
 new_entry.print_entries()
 print(new_entry.json())
+
